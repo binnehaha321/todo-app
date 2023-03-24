@@ -1,4 +1,4 @@
-# my-project
+# Todo App
 
 ## Project setup
 ```
